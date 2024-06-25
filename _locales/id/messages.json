@@ -1,0 +1,164 @@
+{
+   "ADVANCED______________________________________": {
+      "message": "LANJUTAN                                      "
+   },
+   "About______________________________________": {
+      "message": "Tentang                                      "
+   },
+   "Check_how_to_use_this_extension": {
+      "message": "Periksa cara menggunakan ekstensi ini"
+   },
+   "Check_source_code_in_github": {
+      "message": "Periksa kode sumber di GitHub"
+   },
+   "Comment_on_this_extension": {
+      "message": "Komentari ekstensi ini"
+   },
+   "Detect_PDF": {
+      "message": "Deteksi PDF"
+   },
+   "Detect_Type_Swap_Hold_Key": {
+      "message": "Tukar Jenis Deteksi Tombol Tahan"
+   },
+   "EXCLUDE______________________________________": {
+      "message": "KECUALI                                      "
+   },
+   "Ebook_Reader": {
+      "message": "Pembaca Ebook"
+   },
+   "Enable_Youtube_Subtitle": {
+      "message": "Aktifkan Subtitle YouTube"
+   },
+   "Exclude_Language": {
+      "message": "Kecualikan Bahasa"
+   },
+   "Exclude_Website": {
+      "message": "Kecualikan Situs Web"
+   },
+   "Highlight_Color": {
+      "message": "Highlight Color"
+   },
+   "How_to_use": {
+      "message": "Cara Menggunakan"
+   },
+   "Main______________________________________": {
+      "message": "Utama                                      "
+   },
+   "Mouse_Tooltip_Translator": {
+      "message": "Penerjemah Tooltip Mouse"
+   },
+   "OCR_Detection_Language": {
+      "message": "Bahasa Deteksi OCR"
+   },
+   "OCR_When": {
+      "message": "Gunakan OCR Saat"
+   },
+   "PDF_Viewer": {
+      "message": "Pembaca PDF"
+   },
+   "Privacy_Policy": {
+      "message": "Kebijakan Privasi"
+   },
+   "Reverse_Translate_Language": {
+      "message": "Terjemahkan Bahasa Balik"
+   },
+   "Review_Page": {
+      "message": "Halaman Ulasan"
+   },
+   "Show_Tooltip_When": {
+      "message": "Tampilkan Tooltip Saat"
+   },
+   "Source_code": {
+      "message": "Kode Sumber"
+   },
+   "Text_Detect_Type": {
+      "message": "Jenis Deteksi Teks"
+   },
+   "Title______________________________________": {
+      "message": "Judul                                      "
+   },
+   "Tooltip_Animation": {
+      "message": "Tooltip Animation"
+   },
+   "Tooltip_Background_Blur": {
+      "message": "Latar Belakang Blur Tooltip"
+   },
+   "Tooltip_Background_Color": {
+      "message": "Warna Latar Belakang Tooltip"
+   },
+   "Tooltip_Distance": {
+      "message": "Jarak Tooltip"
+   },
+   "Tooltip_Font_Color": {
+      "message": "Warna Font Tooltip"
+   },
+   "Tooltip_Font_Size": {
+      "message": "Ukuran Font Tooltip"
+   },
+   "Tooltip_Position": {
+      "message": "Posisi Tooltip"
+   },
+   "Tooltip_Text_Align": {
+      "message": "Penyelarasan Teks Tooltip"
+   },
+   "Tooltip_Width": {
+      "message": "Lebar Tooltip"
+   },
+   "Translate_From": {
+      "message": "Terjemahkan Dari"
+   },
+   "Translate_Into": {
+      "message": "Terjemahkan Ke"
+   },
+   "Translate_When": {
+      "message": "Terjemahkan Saat"
+   },
+   "Translate_Writing_Hotkey": {
+      "message": "Hotkey Terjemahan Tulisan"
+   },
+   "Translate_local_PDF_file": {
+      "message": "Terjemahkan file PDF lokal"
+   },
+   "Translate_local_ebook_file": {
+      "message": "Terjemahkan file ebook lokal"
+   },
+   "Translator_Engine": {
+      "message": "Mesin Penerjemah"
+   },
+   "User_privacy_policy": {
+      "message": "Kebijakan Privasi Pengguna"
+   },
+   "Visual______________________________________": {
+      "message": "Visual                                      "
+   },
+   "Voice_Repeat": {
+      "message": "Voice Repeat"
+   },
+   "Voice_Speed": {
+      "message": "Voice Speed"
+   },
+   "Voice_Target": {
+      "message": "Voice Target"
+   },
+   "Voice_Volume": {
+      "message": "Voice Volume"
+   },
+   "Voice_When": {
+      "message": "Gunakan Suara Saat"
+   },
+   "Voice______________________________________": {
+      "message": "Suara                                      "
+   },
+   "Voice_for_": {
+      "message": "Suara untuk "
+   },
+   "Writing_Language": {
+      "message": "Bahasa Tulisan"
+   },
+   "appDesc": {
+      "message": "Penerjemah Tooltip Mouse yang Menerjemahkan Teks Saat Diarahkan Mouse Menggunakan Google Translate"
+   },
+   "appName": {
+      "message": "Penerjemah Tooltip Mouse : Penerjemah AI"
+   }
+}

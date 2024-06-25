@@ -1,0 +1,164 @@
+{
+   "ADVANCED______________________________________": {
+      "message": "متقدم                                      "
+   },
+   "About______________________________________": {
+      "message": "عن                                      "
+   },
+   "Check_how_to_use_this_extension": {
+      "message": "تحقق من كيفية استخدام هذه الإضافة"
+   },
+   "Check_source_code_in_github": {
+      "message": "تحقق من كود المصدر في Github"
+   },
+   "Comment_on_this_extension": {
+      "message": "التعليق على هذا التمديد"
+   },
+   "Detect_PDF": {
+      "message": "كشف PDF"
+   },
+   "Detect_Type_Swap_Hold_Key": {
+      "message": "ما هو نوع مفتاح تعليق المبادلة للكشف"
+   },
+   "EXCLUDE______________________________________": {
+      "message": "استبعاد                                      "
+   },
+   "Ebook_Reader": {
+      "message": "قارئ الكتاب الاليكتروني"
+   },
+   "Enable_Youtube_Subtitle": {
+      "message": "تمكين الترجمة ليوتيوب"
+   },
+   "Exclude_Language": {
+      "message": "استبعاد اللغة"
+   },
+   "Exclude_Website": {
+      "message": "استبعاد موقع الويب"
+   },
+   "Highlight_Color": {
+      "message": "Highlight Color"
+   },
+   "How_to_use": {
+      "message": "كيفية الاستعمال"
+   },
+   "Main______________________________________": {
+      "message": "رئيسي                                      "
+   },
+   "Mouse_Tooltip_Translator": {
+      "message": "Mouse Tooltip Translator"
+   },
+   "OCR_Detection_Language": {
+      "message": "لغة الكشف عن التعرف الضوئي على الحروف OCR"
+   },
+   "OCR_When": {
+      "message": "متى يقع التعرف الضوئي على الحروف OCR"
+   },
+   "PDF_Viewer": {
+      "message": "عارض PDF"
+   },
+   "Privacy_Policy": {
+      "message": "سياسة الخصوصية"
+   },
+   "Reverse_Translate_Language": {
+      "message": "عكس لغة الترجمة"
+   },
+   "Review_Page": {
+      "message": "صفحة المراجعة"
+   },
+   "Show_Tooltip_When": {
+      "message": "متى يظهر تلميح الأداة"
+   },
+   "Source_code": {
+      "message": "كود المصدر"
+   },
+   "Text_Detect_Type": {
+      "message": "نوع الكشف عن النص"
+   },
+   "Title______________________________________": {
+      "message": "عنوان                                      "
+   },
+   "Tooltip_Animation": {
+      "message": "Tooltip Animation"
+   },
+   "Tooltip_Background_Blur": {
+      "message": "طمس الخلفية تلميح الأداة"
+   },
+   "Tooltip_Background_Color": {
+      "message": "لون خلفية تلميح الأداة"
+   },
+   "Tooltip_Distance": {
+      "message": "مسافة تلميح الأداة"
+   },
+   "Tooltip_Font_Color": {
+      "message": "لون خط تلميح الأداة"
+   },
+   "Tooltip_Font_Size": {
+      "message": "حجم خط تلميح الأداة"
+   },
+   "Tooltip_Position": {
+      "message": "موضع تلميح الأداة"
+   },
+   "Tooltip_Text_Align": {
+      "message": "محاذاة نص تلميح الأداة"
+   },
+   "Tooltip_Width": {
+      "message": "عرض تلميح الأداة"
+   },
+   "Translate_From": {
+      "message": "الترجمة من"
+   },
+   "Translate_Into": {
+      "message": "الترجمة إلى"
+   },
+   "Translate_When": {
+      "message": "متى يترجم"
+   },
+   "Translate_Writing_Hotkey": {
+      "message": "ترجمة مفتاح التشغيل السريع للكتابة"
+   },
+   "Translate_local_PDF_file": {
+      "message": "ترجمة ملف PDF المحلي"
+   },
+   "Translate_local_ebook_file": {
+      "message": "ترجمة ملف الكتاب الإلكتروني المحلي"
+   },
+   "Translator_Engine": {
+      "message": "محرك الترجمة"
+   },
+   "User_privacy_policy": {
+      "message": "سياسة خصوصية المستخدم"
+   },
+   "Visual______________________________________": {
+      "message": "مرئي                                      "
+   },
+   "Voice_Repeat": {
+      "message": "Voice Repeat"
+   },
+   "Voice_Speed": {
+      "message": "Voice Speed"
+   },
+   "Voice_Target": {
+      "message": "Voice Target"
+   },
+   "Voice_Volume": {
+      "message": "Voice Volume"
+   },
+   "Voice_When": {
+      "message": "متى يقرأ النص صوتيا"
+   },
+   "Voice______________________________________": {
+      "message": "صوت                                      "
+   },
+   "Voice_for_": {
+      "message": "صوت ل "
+   },
+   "Writing_Language": {
+      "message": "لغة الكتابة"
+   },
+   "appDesc": {
+      "message": "ترجمة نص تحت مؤشر الفأرة باستخدام محركات ترجمة مختلفة من ضمنها Googleو Bingو Yandexو DeepLو Naver Papagoو"
+   },
+   "appName": {
+      "message": "مترجم تلميح الأدوات بالفأرة"
+   }
+}

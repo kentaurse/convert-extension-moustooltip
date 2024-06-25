@@ -1,0 +1,164 @@
+{
+   "ADVANCED______________________________________": {
+      "message": "ADVANCED                                      "
+   },
+   "About______________________________________": {
+      "message": "אודות                                      "
+   },
+   "Check_how_to_use_this_extension": {
+      "message": "Check how to use this extension"
+   },
+   "Check_source_code_in_github": {
+      "message": "קוד מקור בgithub"
+   },
+   "Comment_on_this_extension": {
+      "message": "Comment on this extension"
+   },
+   "Detect_PDF": {
+      "message": "זהה pdf"
+   },
+   "Detect_Type_Swap_Hold_Key": {
+      "message": "תרגם בהחזקת מקש"
+   },
+   "EXCLUDE______________________________________": {
+      "message": "EXCLUDE                                      "
+   },
+   "Ebook_Reader": {
+      "message": "Ebook Reader"
+   },
+   "Enable_Youtube_Subtitle": {
+      "message": "אפשר כתוביות youtube"
+   },
+   "Exclude_Language": {
+      "message": "אל תתרגם את השפות"
+   },
+   "Exclude_Website": {
+      "message": "אל תתרגם את האתרים"
+   },
+   "Highlight_Color": {
+      "message": "Highlight Color"
+   },
+   "How_to_use": {
+      "message": "How to use"
+   },
+   "Main______________________________________": {
+      "message": "ראשי                                      "
+   },
+   "Mouse_Tooltip_Translator": {
+      "message": "Mouse Tooltip Translator"
+   },
+   "OCR_Detection_Language": {
+      "message": "שפת ocr"
+   },
+   "OCR_When": {
+      "message": "מתי לעשות ocr?"
+   },
+   "PDF_Viewer": {
+      "message": "מציג pdf"
+   },
+   "Privacy_Policy": {
+      "message": "מדיניות פרטיות"
+   },
+   "Reverse_Translate_Language": {
+      "message": "Reverse Translate Language"
+   },
+   "Review_Page": {
+      "message": "Review Page"
+   },
+   "Show_Tooltip_When": {
+      "message": "מתי להראות את התרגום?"
+   },
+   "Source_code": {
+      "message": "קוד מקור"
+   },
+   "Text_Detect_Type": {
+      "message": "מה לתרגם?"
+   },
+   "Title______________________________________": {
+      "message": "כותרת                                      "
+   },
+   "Tooltip_Animation": {
+      "message": "Tooltip Animation"
+   },
+   "Tooltip_Background_Blur": {
+      "message": "טשטוש רקע"
+   },
+   "Tooltip_Background_Color": {
+      "message": "צבע טולטיפ"
+   },
+   "Tooltip_Distance": {
+      "message": "מרחק טולטיפ"
+   },
+   "Tooltip_Font_Color": {
+      "message": "צבע טקסט"
+   },
+   "Tooltip_Font_Size": {
+      "message": "גודל פונט"
+   },
+   "Tooltip_Position": {
+      "message": "מיקום טולטיפ"
+   },
+   "Tooltip_Text_Align": {
+      "message": "יישור טקסט"
+   },
+   "Tooltip_Width": {
+      "message": "רוחב טולטיפ"
+   },
+   "Translate_From": {
+      "message": "שפת מקור"
+   },
+   "Translate_Into": {
+      "message": "שפת יעד"
+   },
+   "Translate_When": {
+      "message": "מתי לתרגם?"
+   },
+   "Translate_Writing_Hotkey": {
+      "message": "תרגם בלחיצה על מקש"
+   },
+   "Translate_local_PDF_file": {
+      "message": "תרגום pdf מקומי"
+   },
+   "Translate_local_ebook_file": {
+      "message": "Translate local ebook file"
+   },
+   "Translator_Engine": {
+      "message": "מנוע תרגום"
+   },
+   "User_privacy_policy": {
+      "message": "מדיניות פרטיות למשתמש"
+   },
+   "Visual______________________________________": {
+      "message": "תצוגה                                      "
+   },
+   "Voice_Repeat": {
+      "message": "Voice Repeat"
+   },
+   "Voice_Speed": {
+      "message": "Voice Speed"
+   },
+   "Voice_Target": {
+      "message": "Voice Target"
+   },
+   "Voice_Volume": {
+      "message": "Voice Volume"
+   },
+   "Voice_When": {
+      "message": "מתי להשמיע את התרגום?"
+   },
+   "Voice______________________________________": {
+      "message": "קול                                      "
+   },
+   "Voice_for_": {
+      "message": "Voice for "
+   },
+   "Writing_Language": {
+      "message": "Writing Language"
+   },
+   "appDesc": {
+      "message": "מתרגם מסביר כלים לעכבר תרגם טקסט עכבר באמצעות Google Translate"
+   },
+   "appName": {
+      "message": "מתרגם tooltip"
+   }
+}

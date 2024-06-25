@@ -1,0 +1,53 @@
+{
+   "action": {
+      "default_popup": "popup.html",
+      "default_title": "Mouse Tooltip Translator"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "copy-translated-text": {
+         "description": "Copy Translated Text",
+         "suggested_key": {
+            "default": "Ctrl+Shift+1"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "tippy.css" ],
+      "js": [ "contentScript.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval' ;  object-src 'none'"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "differential_fingerprint": "1.d3c55f6147227e5cfdfad234ee27336052bde32aea75489bbfc33b4112b579bb",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/icon_128.png",
+      "16": "icons/icon_16.png",
+      "32": "icons/icon_32.png",
+      "48": "icons/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn9xVIy/jRgJhY7jwKmfi8sWUH3fG8uNQI9kB1TdRiH9Ds8Hp48k9VbhrEIBsMfH6ZHzKD8sjKBG1DvlSf2uGcRrV8ljkIa6Q2Q1mMo/q0d3y9QcnN1tzi9s5W/1cmIfngtwmeyAZsmdO+Jb3owG9i3EjG6amNUoa4btmkuXXcniG3k2DDA2xqsnoG6loo2v02u+SspUziahlTzsJ/4tJYnZXxGvN8quJq+MiKlsb3AZPMSy2Wyjj1e0GkIlX46x7APSpjvXo3kkTHaKhqP11oua/hdudGRnArc6GCMlfiUDcyPhjLp1rxlYECjmug7voMlo0kqN6fA0Vn/8vxggUJwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "options_ui": {
+      "page": "popup.html"
+   },
+   "permissions": [ "storage", "tts", "tabs", "scripting", "contextMenus", "offscreen" ],
+   "sandbox": {
+      "pages": [ "opencvHandler.html" ]
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.98",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "pdfjs/web/viewer.html", "ocr.html", "opencvHandler.html", "youtube.js" ]
+   } ]
+}

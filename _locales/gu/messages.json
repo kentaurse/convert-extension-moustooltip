@@ -1,0 +1,164 @@
+{
+   "ADVANCED______________________________________": {
+      "message": "ADVANCED                                      "
+   },
+   "About______________________________________": {
+      "message": "About                                      "
+   },
+   "Check_how_to_use_this_extension": {
+      "message": "Check how to use this extension"
+   },
+   "Check_source_code_in_github": {
+      "message": "Check source code in github"
+   },
+   "Comment_on_this_extension": {
+      "message": "Comment on this extension"
+   },
+   "Detect_PDF": {
+      "message": "Detect PDF"
+   },
+   "Detect_Type_Swap_Hold_Key": {
+      "message": "Detect Type Swap Hold Key"
+   },
+   "EXCLUDE______________________________________": {
+      "message": "EXCLUDE                                      "
+   },
+   "Ebook_Reader": {
+      "message": "Ebook Reader"
+   },
+   "Enable_Youtube_Subtitle": {
+      "message": "Enable Youtube Subtitle"
+   },
+   "Exclude_Language": {
+      "message": "Exclude Language"
+   },
+   "Exclude_Website": {
+      "message": "Exclude Website"
+   },
+   "Highlight_Color": {
+      "message": "Highlight Color"
+   },
+   "How_to_use": {
+      "message": "How to use"
+   },
+   "Main______________________________________": {
+      "message": "Main                                      "
+   },
+   "Mouse_Tooltip_Translator": {
+      "message": "Mouse Tooltip Translator"
+   },
+   "OCR_Detection_Language": {
+      "message": "OCR Detection Language"
+   },
+   "OCR_When": {
+      "message": "OCR When"
+   },
+   "PDF_Viewer": {
+      "message": "PDF Viewer"
+   },
+   "Privacy_Policy": {
+      "message": "Privacy Policy"
+   },
+   "Reverse_Translate_Language": {
+      "message": "Reverse Translate Language"
+   },
+   "Review_Page": {
+      "message": "Review Page"
+   },
+   "Show_Tooltip_When": {
+      "message": "Show Tooltip When"
+   },
+   "Source_code": {
+      "message": "Source code"
+   },
+   "Text_Detect_Type": {
+      "message": "Text Detect Type"
+   },
+   "Title______________________________________": {
+      "message": "Title                                      "
+   },
+   "Tooltip_Animation": {
+      "message": "Tooltip Animation"
+   },
+   "Tooltip_Background_Blur": {
+      "message": "Tooltip Background Blur"
+   },
+   "Tooltip_Background_Color": {
+      "message": "Tooltip Background Color"
+   },
+   "Tooltip_Distance": {
+      "message": "Tooltip Distance"
+   },
+   "Tooltip_Font_Color": {
+      "message": "Tooltip Font Color"
+   },
+   "Tooltip_Font_Size": {
+      "message": "Tooltip Font Size"
+   },
+   "Tooltip_Position": {
+      "message": "Tooltip Position"
+   },
+   "Tooltip_Text_Align": {
+      "message": "Tooltip Text Align"
+   },
+   "Tooltip_Width": {
+      "message": "Tooltip Width"
+   },
+   "Translate_From": {
+      "message": "Translate From"
+   },
+   "Translate_Into": {
+      "message": "Translate Into"
+   },
+   "Translate_When": {
+      "message": "Translate When"
+   },
+   "Translate_Writing_Hotkey": {
+      "message": "Translate Writing Hotkey"
+   },
+   "Translate_local_PDF_file": {
+      "message": "Translate local PDF file"
+   },
+   "Translate_local_ebook_file": {
+      "message": "Translate local ebook file"
+   },
+   "Translator_Engine": {
+      "message": "Translator Engine"
+   },
+   "User_privacy_policy": {
+      "message": "User privacy policy"
+   },
+   "Visual______________________________________": {
+      "message": "Visual                                      "
+   },
+   "Voice_Repeat": {
+      "message": "Voice Repeat"
+   },
+   "Voice_Speed": {
+      "message": "Voice Speed"
+   },
+   "Voice_Target": {
+      "message": "Voice Target"
+   },
+   "Voice_Volume": {
+      "message": "Voice Volume"
+   },
+   "Voice_When": {
+      "message": "Voice When"
+   },
+   "Voice______________________________________": {
+      "message": "Voice                                      "
+   },
+   "Voice_for_": {
+      "message": "Voice for "
+   },
+   "Writing_Language": {
+      "message": "Writing Language"
+   },
+   "appDesc": {
+      "message": "ગૂગલ ટ્રાન્સલેશનનો ઉપયોગ કરીને માઉસ ટૂલટિપ અનુવાદક માઉસઓવર ટેક્સ્ટનું ભાષાંતર કરે છે"
+   },
+   "appName": {
+      "message": "માઉસ ટૂલટિપ અનુવાદક for learning language"
+   }
+}
